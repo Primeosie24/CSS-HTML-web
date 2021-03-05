@@ -67,3 +67,7 @@ img{
 .p3 {
   font-family: "Lucida Console", "Courier New", monospace;
 }
+body{
+background-image: url("paper.gif");
+ background-color: #cccccc;
+}
